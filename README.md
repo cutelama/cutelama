@@ -4,11 +4,7 @@
 
 ###
 
-<h2 align="left">~meow</h2>
-
-###
-
-<img align="right" height="180" src="https://i.imgur.com/tLOdpQe.gif"  />
+<img align="right" height="160" src="https://i.imgur.com/tLOdpQe.gif"  />
 
 ###
 
@@ -25,5 +21,3 @@
   <img width="15" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="26" alt="kotlin logo"  />
 </div>
-
-###
