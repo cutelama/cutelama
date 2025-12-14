@@ -1,8 +1,6 @@
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&reversal=false&text=Hola%20ma%20boi&fontSize=65&fontColor=bd9cdf&fontAlignY=80&stroke=-&animation=fadeIn&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&reversal=false&text=Hola%20ma%20boi&fontSize=65&fontColor=bd9cdf&fontAlignY=70&stroke=-&animation=fadeIn&textBg=false&color=undefined"  />
 </div>
-
-###
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/Wx6cKkNKjiIAAAAj/cato-cat-boys.gif" />
